@@ -1,0 +1,5 @@
+package Turing;
+
+public enum Operazioni {
+	ERRORE,LOGIN,LOGOUT,CREATE,LISTA,SHOWD,SHOWS,INVITE,EDIT,END_EDIT,SEND,RECEIVE;
+}
